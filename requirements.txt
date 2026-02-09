@@ -3,7 +3,6 @@ streamlit
 numpy
 scikit-learn
 joblib
-altair
 python_version < 3.13
 streamlit==1.30.0
 altair==4.2.2
